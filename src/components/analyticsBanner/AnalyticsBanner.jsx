@@ -1,5 +1,5 @@
 import React from "react";
-import "./AnalyticsBanner.css";
+import "./analyticsBanner.css";
 
 const AnalyticsBanner = () => {
   return (

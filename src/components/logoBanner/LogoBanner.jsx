@@ -1,5 +1,5 @@
 import React from "react";
-import "./LogoBanner.css";
+import "./logoBanner.css";
 
 // Updated company array with public folder path
 const companies = [
